@@ -23,40 +23,6 @@ Ce site internet est la vitrine officielle de l'association. Il permet de :
 - **Nous contacter** pour toute question ou signalement
 - **Accéder à une FAQ** répondant aux questions fréquentes
 
-### 📂 Structure du Projet
-
-```
-rpt-association-website/
-├── index.html                 # Page d'accueil
-├── adoption.html              # Processus d'adoption
-├── don.html                   # Faire un don
-├── about.html                 # Qui sommes-nous
-├── contact.html               # Formulaire de contact
-├── faq.html                   # Questions fréquentes
-├── legal.html                 # Mentions légales
-├── oiseaux-disponibles.html   # Oiseaux à adopter
-├── 404.html                   # Page d'erreur
-│
-├── public/
-│   └── assets/
-│       ├── css/
-│       │   └── style.css      # Styles principaux (3700+ lignes)
-│       └── images/            # Images et logos WebP
-│
-├── src/
-│   └── js/
-│       ├── components/
-│       │   ├── navbar.js      # Composant navigation réutilisable
-│       │   └── footer.js      # Composant pied de page réutilisable
-│       ├── script.js          # Scripts généraux
-│       ├── layout.js          # Gestion du layout
-│       ├── scroll-to-top.js   # Bouton retour en haut
-│       ├── hero-animation.js  # Animations hero avec particules
-│       ├── adoption-carousel.js # Carrousel interactif 9 oiseaux
-│       ├── contact.js         # Gestion formulaire contact
-│       ├── faq.js             # Accordéon FAQ
-
-```
 
 ### 🎯 Fonctionnalités Principales
 
@@ -110,43 +76,6 @@ This website serves as the official platform for the association. It allows visi
 - **View available birds** for adoption
 - **Contact us** for questions or reports
 - **Access our FAQ** answering common questions
-
-### 📂 Project Structure
-
-```
-rpt-association-website/
-├── index.html                 # Homepage
-├── adoption.html              # Adoption process
-├── don.html                   # Make a donation
-├── about.html                 # About us
-├── contact.html               # Contact form
-├── faq.html                   # Frequently asked questions
-├── legal.html                 # Legal notice
-├── oiseaux-disponibles.html   # Birds available for adoption
-├── 404.html                   # Error page
-│
-├── public/
-│   └── assets/
-│       ├── css/
-│       │   └── style.css      # Main styles (3700+ lines)
-│       └── images/            # WebP images and logos
-│
-├── src/
-│   └── js/
-│       ├── components/
-│       │   ├── navbar.js      # Reusable navigation component
-│       │   └── footer.js      # Reusable footer component
-│       ├── script.js          # General scripts
-│       ├── layout.js          # Layout management
-│       ├── scroll-to-top.js   # Back to top button
-│       ├── hero-animation.js  # Hero animations with particles
-│       ├── adoption-carousel.js # Interactive carousel (9 birds)
-│       ├── contact.js         # Contact form management
-│       ├── faq.js             # FAQ accordion
-│       └── oiseaux-disponibles.js # Available birds gallery
-│
-└── docs/                      # Technical documentation
-```
 
 ### 🚀 Technologies Used
 
