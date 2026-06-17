@@ -55,7 +55,7 @@ Ce site internet est la vitrine officielle de l'association. Il permet de :
 ### 🌍 Déploiement
 
 Le site est hébergé et accessible à l'adresse :
-**https://refugeperruchestriolet.live**
+**https://refugeperruchestriolet.com**
 
 
 ## 🇬🇧 English Version
@@ -117,7 +117,7 @@ This website serves as the official platform for the association. It allows visi
 ### 🌍 Deployment
 
 The website is hosted and accessible at:
-**https://refugeperruchestriolet.live**
+**https://refugeperruchestriolet.com**
 
 ### 📄 License
 
@@ -133,7 +133,7 @@ If you notice a bug or have suggestions for improvements, please feel free to co
 ## 💚 Support Us
 
 Every donation helps us save more birds!  
-Visit [refugeperruchestriolet.live/don.html](https://refugeperruchestriolet.live/don.html)
+Visit [refugeperruchestriolet.com/don.html](https://refugeperruchestriolet.com/don.html)
 
 ---
 
